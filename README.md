@@ -1,6 +1,6 @@
 # Excel Data Analytics
 
-# AtliQ Hardware Data Analysis Project
+# AtliQ Hardware : Sales Analysis Project
 
 ## Project Overview
 
